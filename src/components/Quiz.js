@@ -9,7 +9,7 @@ state = {
     quizEnd: false,
     score: 0,
     disabled: true
-}
+} 
     
 
     //Component that holds the current quiz
