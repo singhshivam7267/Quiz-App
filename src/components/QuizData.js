@@ -10,7 +10,7 @@ export const QuizData = [
         question: `What is the capital of India?`,
         options: [`Punjab`, `Awka`, `Owerri`, `Enugu`],
         answer: `New Delhi`
-    },
+    }, 
     {
         id: 2,
         question: `What is the capital of Australia?`,
